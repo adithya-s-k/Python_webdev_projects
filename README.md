@@ -1,1 +1,1 @@
-This repository is for all the projects pertaining to Django
+This repository is for all the projects pertaining to Django and Flask
